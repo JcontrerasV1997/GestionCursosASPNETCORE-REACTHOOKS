@@ -1,0 +1,14 @@
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Aplicacion\bin\Debug\netstandard2.0\Aplicacion.deps.json
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Aplicacion\bin\Debug\netstandard2.0\Aplicacion.dll
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Aplicacion\bin\Debug\netstandard2.0\Aplicacion.pdb
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Aplicacion\bin\Debug\netstandard2.0\Dominio.dll
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Aplicacion\bin\Debug\netstandard2.0\Persistencia.dll
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Aplicacion\bin\Debug\netstandard2.0\Dominio.pdb
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Aplicacion\bin\Debug\netstandard2.0\Persistencia.pdb
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.csprojAssemblyReference.cache
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.AssemblyInfoInputs.cache
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.AssemblyInfo.cs
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.csproj.CoreCompileInputs.cache
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.csproj.CopyComplete
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.dll
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.pdb

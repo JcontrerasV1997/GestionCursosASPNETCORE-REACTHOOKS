@@ -1,0 +1,351 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\WebAppi\\WebAppi.csproj": {}
+  },
+  "projects": {
+    "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Aplicacion\\Aplicacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Aplicacion\\Aplicacion.csproj",
+        "projectName": "Aplicacion",
+        "projectPath": "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Aplicacion\\Aplicacion.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Aplicacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Dominio\\Dominio.csproj": {
+                "projectPath": "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Dominio\\Dominio.csproj"
+              },
+              "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Persistencia\\Persistencia.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Dominio\\Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Dominio\\Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Persistencia\\Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Persistencia\\Persistencia.csproj",
+        "projectName": "Persistencia",
+        "projectPath": "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Persistencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Dominio\\Dominio.csproj": {
+                "projectPath": "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Dominio\\Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Seguridad\\Seguridad.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Seguridad\\Seguridad.csproj",
+        "projectName": "Seguridad",
+        "projectPath": "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Seguridad\\Seguridad.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Seguridad\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Aplicacion\\Aplicacion.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\WebAppi\\WebAppi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\WebAppi\\WebAppi.csproj",
+        "projectName": "WebAppi",
+        "projectPath": "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\WebAppi\\WebAppi.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\WebAppi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Aplicacion\\Aplicacion.csproj"
+              },
+              "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Seguridad\\Seguridad.csproj": {
+                "projectPath": "D:\\Programas y utilidades para desarrollo\\Repositorios y Conceptos\\repositorio para c#\\proyectoCoreVsCODE\\Seguridad\\Seguridad.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

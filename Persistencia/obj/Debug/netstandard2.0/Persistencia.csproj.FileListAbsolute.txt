@@ -1,0 +1,12 @@
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Persistencia\bin\Debug\netstandard2.0\Persistencia.deps.json
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Persistencia\bin\Debug\netstandard2.0\Persistencia.dll
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Persistencia\bin\Debug\netstandard2.0\Persistencia.pdb
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Persistencia\bin\Debug\netstandard2.0\Dominio.dll
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Persistencia\bin\Debug\netstandard2.0\Dominio.pdb
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Persistencia\obj\Debug\netstandard2.0\Persistencia.csprojAssemblyReference.cache
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfoInputs.cache
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfo.cs
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CoreCompileInputs.cache
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CopyComplete
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Persistencia\obj\Debug\netstandard2.0\Persistencia.dll
+D:\Programas y utilidades para desarrollo\Repositorios y Conceptos\repositorio para c#\proyectoCoreVsCODE\Persistencia\obj\Debug\netstandard2.0\Persistencia.pdb
